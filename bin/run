@@ -12,5 +12,7 @@ end
 
 reset_database
 
+Song.all
+
 binding.pry
 "pls"
